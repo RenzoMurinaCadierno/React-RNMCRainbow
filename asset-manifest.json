@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-RNMCRainbow/static/css/main.d70a901d.chunk.css",
+    "main.js": "/React-RNMCRainbow/static/js/main.e804a9e5.chunk.js",
+    "main.js.map": "/React-RNMCRainbow/static/js/main.e804a9e5.chunk.js.map",
+    "runtime-main.js": "/React-RNMCRainbow/static/js/runtime-main.a26cea3f.js",
+    "runtime-main.js.map": "/React-RNMCRainbow/static/js/runtime-main.a26cea3f.js.map",
+    "static/css/2.69b95c45.chunk.css": "/React-RNMCRainbow/static/css/2.69b95c45.chunk.css",
+    "static/js/2.e78a5e8c.chunk.js": "/React-RNMCRainbow/static/js/2.e78a5e8c.chunk.js",
+    "static/js/2.e78a5e8c.chunk.js.map": "/React-RNMCRainbow/static/js/2.e78a5e8c.chunk.js.map",
+    "index.html": "/React-RNMCRainbow/index.html",
+    "precache-manifest.2c60f664e9905ee00918e345e2521d21.js": "/React-RNMCRainbow/precache-manifest.2c60f664e9905ee00918e345e2521d21.js",
+    "service-worker.js": "/React-RNMCRainbow/service-worker.js",
+    "static/css/2.69b95c45.chunk.css.map": "/React-RNMCRainbow/static/css/2.69b95c45.chunk.css.map",
+    "static/css/main.d70a901d.chunk.css.map": "/React-RNMCRainbow/static/css/main.d70a901d.chunk.css.map",
+    "static/js/2.e78a5e8c.chunk.js.LICENSE.txt": "/React-RNMCRainbow/static/js/2.e78a5e8c.chunk.js.LICENSE.txt",
+    "static/media/background.svg": "/React-RNMCRainbow/static/media/background.12a2a448.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a26cea3f.js",
+    "static/css/2.69b95c45.chunk.css",
+    "static/js/2.e78a5e8c.chunk.js",
+    "static/css/main.d70a901d.chunk.css",
+    "static/js/main.e804a9e5.chunk.js"
+  ]
+}
